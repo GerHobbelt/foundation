@@ -117,6 +117,10 @@ Templates
 * [Desktop, Tablet and Phone Grid PSD Templates](http://foundation.zurb.com/files/foundation-psd-templates.zip ) by Bruce Abel at Portfolio Creative Services Group
 * [HAML Web Templates](https://github.com/pbonnell/foundation_templates_haml) by Peter Bonnell
 
+Rapid Prototyping
+
+* [ditbi](https://github.com/roblevintennis/ditbi) by Rob Levin [4 Minute Demo Video](http://www.youtube.com/watch?v=ERgFCJFpq5E)
+
 Grid Generator
 
 * [Experimental Grid Generator](http://www.gridlover.net/foundation/) courtesy of [Ville Vanninen](http://foolproof.me)
@@ -139,6 +143,10 @@ Yeoman Generator
 
 * [Yeoman 1.0-Foundation 4](https://github.com/lkbgift/foundation4-yeoman) by [Leonard Bogdonoff](http://twitter.com/lkbcc)
 * [Yeoman-Foundation](https://npmjs.org/package/yeoman-foundation) by Vincent Mac
+
+Meteor
+
+* [Foundation Smart Package](https://atmosphere.meteor.com/package/zurb-foundation)
 
 
 MIT Open Source License
