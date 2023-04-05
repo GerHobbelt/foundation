@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
-gem 'redcarpet'
-gem 'sprockets'
+gem 'redcarpet', '>= 3.5.1'
+gem 'sprockets', '>= 4.2.0'
 gem 'foreman'
 gem 'stasis'
 gem 'sass', :require => false
 gem 'rouge'
 gem 'thin'
-gem 'uglifier'
+gem 'uglifier', '>= 2.7.2'
 
 group :development do
   gem 'capistrano'
