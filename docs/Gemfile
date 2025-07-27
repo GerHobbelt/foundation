@@ -2,10 +2,10 @@ source 'https://rubygems.org'
 
 gem 'redcarpet'
 gem 'sprockets'
-gem 'foreman'
+gem 'foreman', '>= 0.62.0'
 gem 'stasis'
 gem 'sass', :require => false
-gem 'rouge'
+gem 'rouge', '>= 0.3.10'
 gem 'thin'
 gem 'uglifier'
 
